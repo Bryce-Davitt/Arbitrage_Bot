@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a fully functional arbitrage bot that has been completely implemented and is actively maintained with frequent updates and improvements.
+This repository is setup for a fully functional arbitrage bot that has been completely implemented and is actively maintained with frequent updates and improvements.
 
 ## Current Status
 
